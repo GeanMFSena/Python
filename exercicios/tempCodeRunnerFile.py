@@ -1,4 +1,5 @@
-print(type("Gena"))
-print( type(10 == 10))
-print( type(10))
-print( type(1.10))
+nome = 'gean'
+peso = 180
+altura = 1.70
+
+imc = peso / altura
