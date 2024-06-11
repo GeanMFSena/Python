@@ -1,1 +1,1 @@
-print(i, nome)
+frase_dividida = frase.split(',')
