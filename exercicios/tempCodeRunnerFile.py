@@ -1,1 +1,1 @@
-frase_dividida = frase.split(',')
+10, 11
