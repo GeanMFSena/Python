@@ -54,5 +54,3 @@ numero = 123456.78910
 print(f"{numero:.1f}") # formata o numero para 1 casas decimais
 
 print(f"Ola {nome} o hexadecimal de {numero_para_hexadecimal} é {numero_para_hexadecimal:04X}") # formatando numero para hexadecimal com 4 digitos
-
-print("sla")
